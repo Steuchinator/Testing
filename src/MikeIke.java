@@ -4,5 +4,6 @@ public class MikeIke {
 	public static void main (String[] args) {
 		Sample peter = new Sample("Peter Griffin", 17);
 		System.out.println(peter);
+		System.out.println("money among us");
 	}
 }
